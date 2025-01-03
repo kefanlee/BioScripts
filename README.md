@@ -1,1 +1,1 @@
-# Bioinfo_Workflow
+# Bioinfo Workflow
