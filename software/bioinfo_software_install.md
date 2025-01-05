@@ -1,5 +1,8 @@
 > 本文记录了**基因组组装、全基因组重测序、转录组**数据分析等生信分析中的环境安装
 
+[toc]
+---
+
 # 基因组分析
 
 ## Structure Variant
@@ -19,9 +22,9 @@ conda install -c bioconda lumpy-sv=0.3.1
 ```
 
 > 创建软连接
-```
-lumpy
-```
+> ```
+> lumpy
+> ```
 
 ### Manta
 
@@ -36,3 +39,5 @@ conda install -c bioconda manta=1.6.0
 > configManta.py
 > runMantaWorkflowDemo.py
 > ```
+
+## 
