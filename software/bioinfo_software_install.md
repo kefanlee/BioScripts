@@ -32,7 +32,7 @@ conda install -c bioconda manta=1.6.0
 ```
 
 > 创建软连接
-```
-configManta.py
-runMantaWorkflowDemo.py
-```
+> ```
+> configManta.py
+> runMantaWorkflowDemo.py
+> ```
