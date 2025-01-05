@@ -10,4 +10,4 @@
 ## 公众号
 > 可凡的学习笔记本
 
-<img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3922636214&token=1093076874" width="200" height="200" />
+<img src="./assets/img/wxpublic.png" width="200" height="200" />
