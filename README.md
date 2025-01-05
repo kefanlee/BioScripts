@@ -12,6 +12,7 @@
 
 ## 微信公众号
 > 可凡的学习笔记本
+>
 > ID: kefannotes
 
 <img src="./assets/img/wxpublic.png" width="450" height="150" />
