@@ -10,4 +10,4 @@
 ## 公众号
 > 可凡的学习笔记本
 
-<img src="./assets/img/wxpublic.png"/>
+<img src="./assets/img/wxpublic.png" width="450" height="150" />
